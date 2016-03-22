@@ -1,0 +1,27 @@
+var classant_1_1analysis_1_1physics_1_1_omega_eta_g2 =
+[
+    [ "OmegaTree_t", "structant_1_1analysis_1_1physics_1_1_omega_eta_g2_1_1_omega_tree__t.html", "structant_1_1analysis_1_1physics_1_1_omega_eta_g2_1_1_omega_tree__t" ],
+    [ "ReactionChannel_t", "structant_1_1analysis_1_1physics_1_1_omega_eta_g2_1_1_reaction_channel__t.html", "structant_1_1analysis_1_1physics_1_1_omega_eta_g2_1_1_reaction_channel__t" ],
+    [ "ReactionChannelList_t", "structant_1_1analysis_1_1physics_1_1_omega_eta_g2_1_1_reaction_channel_list__t.html", "structant_1_1analysis_1_1physics_1_1_omega_eta_g2_1_1_reaction_channel_list__t" ],
+    [ "decaytree_t", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#ac6d7876f320d8d0bffccd224852b76ae", null ],
+    [ "OmegaEtaG2", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#abd6771bcea5030cdb8a982732e7e79ea", null ],
+    [ "~OmegaEtaG2", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a1bde05892911aff2c65911bdd0f5fd66", null ],
+    [ "AcceptedPhoton", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a7698f4f9e01b55b19d44dc9cfdabe366", null ],
+    [ "AcceptedProton", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#ad4aa344c7eee36640fda06fb79c848aa", null ],
+    [ "Analyse", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a10c52fc2c86eedc170560decdbf6724e", null ],
+    [ "FilterPhotons", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a28f0fc352079086445180dfdf03a4b1a", null ],
+    [ "FilterProtons", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#af6c45bab14c9bf30971f272819aac862", null ],
+    [ "Finish", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a4aa9eaf05c1b5e5ceed9449d085fd1fb", null ],
+    [ "cut_Copl", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a5dd5de6214e2927f551592862b1537fa", null ],
+    [ "cut_ESum", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a830fbb6779ffdbcaab48ef6e99d1be78", null ],
+    [ "fitter", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#aac3f52a100c104e9c9ee88f958809618", null ],
+    [ "found_channels", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a32f6fc01f5ee0994125c246cb2164d50", null ],
+    [ "missed_channels", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#af6b3f7830a2bdf7f86a0b33490abc940", null ],
+    [ "photon_E_cb", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a9a03634fb097f5da48bc96a3b5006df6", null ],
+    [ "photon_E_taps", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a354fe97f31f35cc0820f9d3c3d10d87b", null ],
+    [ "promptrandom", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a74be36a62b29ea478336ea2bdbbf623a", null ],
+    [ "proton_theta", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#aa26f825c5ad0f054276b9bc26bc514f0", null ],
+    [ "stephists", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a43e84a1e8155575017be20bea353c73a", null ],
+    [ "t", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#a0ddaeb25d915a5a95ced2c619f0f19d5", null ],
+    [ "tree", "classant_1_1analysis_1_1physics_1_1_omega_eta_g2.html#ab8a5bcecac66a19a9317bf56f24de0a1", null ]
+];
